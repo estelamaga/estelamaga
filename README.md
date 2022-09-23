@@ -25,8 +25,11 @@ Here are some ideas to get you started:
  <img align="center" alt="Logo-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
  <img align="center" alt="Logo-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
  <img align="center" alt="Logo-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-</div> 
 
+</div> 
+   
+  ##
+  
 <div>
   <a href="https://www.linkedin.com/in/estela-magalh%C3%A3es-00988b11b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
