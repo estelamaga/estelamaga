@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <div>
   <a href="https://www.linkedin.com/in/estela-magalh%C3%A3es-00988b11b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/estelamaga/estelamaga/blob/output/github-contribution-grid-snake.svg)
  
 </div>
