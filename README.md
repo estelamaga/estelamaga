@@ -1,4 +1,4 @@
-### Eu sou a Estela magalhães, analista de qualidade e automação de teste 👋
+### Eu sou a Estela magalhães, analista de testes de software e automação de teste 👋
 
 <!--
 **estelamaga/estelamaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
